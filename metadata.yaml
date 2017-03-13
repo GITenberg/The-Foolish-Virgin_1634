@@ -1,5 +1,8 @@
 _repo: The-Foolish-Virgin_1634
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Dixon, Thomas
@@ -12,6 +15,8 @@ creator:
 description: Letter, 1905 March 6, New York, to Mr. Brook, mentioning Alfred Moore
   Waddell's comments on Dixon's novel The clansman, 1905 [2 l. holograph signed. 23.4
   cm.].
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1634#The-Foolish-Virgin
 gutenberg_issued: '1999-02-01'
 gutenberg_type: Text
 identifiers:
